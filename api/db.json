@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "deneme",
+      "link": "link vs ",
+      "upVote": 0,
+      "downVote": 0
+    },
+    {
+      "id": 2,
+      "name": "deneme 2",
+      "link": "link vs ",
+      "upVote": 0,
+      "downVote": 0
+    }
+   
+  ]
+}
