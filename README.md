@@ -5,8 +5,7 @@ To run locally
 
 On the root of the project run following commands:
 
-
-##`npm install`
+## `npm install`
   
 ## `npm run`
 
