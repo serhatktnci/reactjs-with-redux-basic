@@ -1,11 +1,18 @@
 Live demo link : [https://reactjs-with-redux-basic.herokuapp.com/]
+
 To run locally
 
+
 On the root of the project run following commands:
-  `npm install`
- `npm run`
+
+
+##`npm install`
+  
+## `npm run`
 
 In browser:
+
+
 localhost:3000
 
 
